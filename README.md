@@ -8,9 +8,10 @@ Clone this repo and open the two jupyternotebook to visualize the results and fi
 
 
 The best way to experience the workbook is to:
-- Click on the Data Set link [here](https://drive.google.com/drive/folders/170dh1q2UmLE2KXIwYBc1pjJzxSbkxWIj?usp=sharing) and create the alias for the directory in you Google Drive. 
-- Click on the Colab link [here](https://colab.research.google.com/drive/1ouXUU498m8zvbOt716A3MTWs85HmJhhB?usp=sharing) and run all cells (kernel menu -> run all). This could take half an hour so go get some coffee.
-- Peruse the notebook and click on the interactive bits for looking at topics.
+- Look at the demo video [here](https://vimeo.com/655137892)
+- Click on the Data Set link [here](https://drive.google.com/drive/folders/170dh1q2UmLE2KXIwYBc1pjJzxSbkxWIj?usp=sharing), go to "Share with me", and "Add shortcut to Drive" for the directory on you Google Drive. 
+- Click on the Colab link [here](https://colab.research.google.com/drive/1ouXUU498m8zvbOt716A3MTWs85HmJhhB?usp=sharing) and run all cells (Runtime menu -> Run all). You will asked initially to authenticate access to your Google drive but it runs automatically after that. This could take half an hour, so go get some coffee.
+- Peruse the notebook and click on the interactive bits for analyzing at topics.
 
 Data Set [here](https://drive.google.com/drive/folders/170dh1q2UmLE2KXIwYBc1pjJzxSbkxWIj?usp=sharing) for the link to data sets. You should click on this link and then right click on it in your Google Drive 'Shared with me' directory to set an alias.  The notebook will use the alias to access the data sets.  Detailed instructions in the notebook.
     
