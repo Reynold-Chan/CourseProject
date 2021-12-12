@@ -22,7 +22,7 @@ To configure access to the dataset and pretrained models$:$
 
 3. Select "Add Shortcut to Drive".  
 4. Click on "My Drive" on the left side of the screen.  Verify that the "CS410FinalProj" folder is accessible in your "My Drive" folder.  (path: My Drive > CS410FinalProj).
-5. If you haven't already, started the Colab notebook [here](https://drive.google.com/drive/folders/170dh1q2UmLE2KXIwYBc1pjJzxSbkxWIj?usp=sharing).  
+5. If you haven't already, started the Colab notebook [here](https://colab.research.google.com/drive/1ouXUU498m8zvbOt716A3MTWs85HmJhhB?usp=sharing).  
 6. In the notebook, click the first executable cell ("Remount Google Drive with ProjectDat) to mount your Google Drive. Complete the authentication steps.
 7. (Optional) From the Colab Notebook, click the "folder" icon on the left and verify you have a directory  "/content/drive/MyDrive/CS410FinalProj".  You can click on CS410FinalProj to verify there are files.
 8. On the notebook menu, click "Runtime" and from the dropdown menu select "Run all."
